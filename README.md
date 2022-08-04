@@ -1,0 +1,1 @@
+For some reason I do not know, adding the delete function in the front-end broke the data viewing. Not only that, but I couldn't integrate back and front properly, so no function actually works, they just return HttpError. It was a good try though.
